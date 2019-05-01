@@ -37,7 +37,7 @@ describe("Writer template functions", () => {
     const result = rewrite("/* longcat is long */ [Exposed=( Window )] interface X {};", {
       trivia: bracket
     });
-    expect(result).toBe("</* longcat is long */ >[<>Exposed<>=<>(< >Window< >)<>]< >interface< >X< >{<>}<>;<>");
+    expect(result).toBe("</* longcat is long */ >[Exposed=(< >Window< >)]< >interface< >X< >{};");
   });
 
   it("catches names", () => {
