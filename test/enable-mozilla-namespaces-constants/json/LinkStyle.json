@@ -1,0 +1,1 @@
+[{"type":"interface","name":"LinkStyle","inheritance":null,"members":[{"type":"attribute","name":"sheet","idlType":{"type":"attribute-type","extAttrs":[],"generic":"","nullable":true,"union":false,"idlType":"StyleSheet"},"extAttrs":[],"special":"","readonly":true}],"extAttrs":[{"type":"extended-attribute","name":"NoInterfaceObject","rhs":null,"arguments":[]}],"partial":false}]

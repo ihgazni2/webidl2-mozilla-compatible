@@ -1,0 +1,1 @@
+[{"type":"interface","name":"BeforeUnloadEvent","inheritance":"Event","members":[{"type":"attribute","name":"returnValue","idlType":{"type":"attribute-type","extAttrs":[],"generic":"","nullable":false,"union":false,"idlType":"DOMString"},"extAttrs":[],"special":"","readonly":false}],"extAttrs":[],"partial":false}]

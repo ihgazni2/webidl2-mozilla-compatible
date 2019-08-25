@@ -1,0 +1,1 @@
+[{"type":"interface","name":"XMLHttpRequestUpload","inheritance":"XMLHttpRequestEventTarget","members":[],"extAttrs":[{"type":"extended-attribute","name":"Exposed","rhs":{"type":"identifier-list","value":[{"value":"Window"},{"value":"DedicatedWorker"},{"value":"SharedWorker"}]},"arguments":[]}],"partial":false}]

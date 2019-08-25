@@ -1,0 +1,1 @@
+[{"type":"enum","name":"StorageType","values":[{"type":"enum-value","value":"persistent"},{"type":"enum-value","value":"temporary"},{"type":"enum-value","value":"default"}],"extAttrs":[]}]

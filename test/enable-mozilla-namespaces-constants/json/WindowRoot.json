@@ -1,0 +1,1 @@
+[{"type":"interface","name":"WindowRoot","inheritance":"EventTarget","members":[],"extAttrs":[{"type":"extended-attribute","name":"ChromeOnly","rhs":null,"arguments":[]}],"partial":false}]

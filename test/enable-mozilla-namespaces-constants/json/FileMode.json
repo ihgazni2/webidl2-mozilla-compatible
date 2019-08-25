@@ -1,0 +1,1 @@
+[{"type":"enum","name":"FileMode","values":[{"type":"enum-value","value":"readonly"},{"type":"enum-value","value":"readwrite"}],"extAttrs":[]}]

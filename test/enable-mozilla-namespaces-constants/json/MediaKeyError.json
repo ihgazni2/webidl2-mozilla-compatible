@@ -1,0 +1,1 @@
+[{"type":"interface","name":"MediaKeyError","inheritance":"Event","members":[{"type":"attribute","name":"systemCode","idlType":{"type":"attribute-type","extAttrs":[],"generic":"","nullable":false,"union":false,"idlType":"unsigned long"},"extAttrs":[],"special":"","readonly":true}],"extAttrs":[],"partial":false}]
