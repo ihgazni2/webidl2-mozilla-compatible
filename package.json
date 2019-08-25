@@ -1,14 +1,12 @@
 {
-  "name": "webidl2",
-  "description": "A WebIDL Parser",
-  "version": "23.5.1",
+  "name": "webidl2-mozilla-compatible",
+  "description": "This forked from https://github.com/w3c/webidl2.js,add some features for mozilla-webidl-file",
+  "version": "0.0.1",
   "contributors": [
-    "Robin Berjon <robin@berjon.com> (https://berjon.com)",
-    "Marcos Caceres <marcos@marcosc.com> (https://marcosc.com)",
-    "Kagami Sascha Rosylight <saschaplas@outlook.com>",
-    "Timothy Gu <timothygu99@gmail.com>"
+      "https://github.com/w3c/webidl2.js",
+      "https://github.com/ihgazni2"
   ],
-  "license": "W3C",
+  "license": "MIT",
   "dependencies": {},
   "devDependencies": {
     "eslint": "^6.0.1",
@@ -26,7 +24,7 @@
     "build": "npx webpack",
     "build-debug": "npx webpack --mode none"
   },
-  "repository": "git://github.com/w3c/webidl2.js",
+  "repository": "git@github.com:ihgazni2/webidl2-mozilla-compatible.git",
   "main": "dist/webidl2.js",
   "module": "index.js",
   "files": [
