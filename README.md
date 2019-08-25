@@ -45,3 +45,44 @@ npm install webidl2-mozilla-compatible
 
 
 ------------------------------------------------------------------------------------------------
+
+## another one
+
+- https://www.npmjs.com/package/webidl2-mozilla-experimental
+
+- npm install webidl2-mozilla-experimental
+
+### this one exposed more functions , for trouble shooting
+
+     var webidl2 = require("webidl2-mozilla-experimental")
+     
+     webidl2
+     
+    { ExtendedAttributes: [Getter],
+      tokenise: [Getter],
+      Tokeniser: [Getter],
+      parse: [Getter],
+      parseByTokens: [Getter],
+      error: [Getter],
+      consume: [Getter],
+      callback: [Getter],
+      interface_: [Getter],
+      definition: [Getter],
+      partial: [Getter],
+      definitions: [Getter],
+      write: [Getter],
+      validate: [Getter],
+      Enum: [Getter],
+      Includes: [Getter],
+      Typedef: [Getter],
+      CallbackFunction: [Getter],
+      Interface: [Getter],
+      Mixin: [Getter],
+      Dictionary: [Getter],
+      Namespace: [Getter],
+      CallbackInterface: [Getter],
+      Constant: [Getter],
+      Container: [Getter],
+      Attribute: [Getter],
+      Operation: [Getter] 
+    }
