@@ -6,8 +6,21 @@ This forked from https://github.com/w3c/webidl2.js
 
 https://dxr.mozilla.org/mozilla-central/source/dom/webidl/
 
+
+## Installation
+
+Just the usual. For Node:
+
+```Bash
+npm install webidl2-mozilla-compatible
+```
+
+## Documentation
+
 ### 0.enable-mozilla-namespaces-constants
 
+    var wbidl2 = require("webidl2-mozilla-compatible")
+    
     var s =`namespace APZHitResultFlags {
       const unsigned short INVISIBLE = 0;
     };`
@@ -23,6 +36,8 @@ https://dxr.mozilla.org/mozilla-central/source/dom/webidl/
     console.log(txt)
 
 
+
+----------------------------------------------------------------------------------------------------------------------
 
 # WebIDL 2
 
