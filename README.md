@@ -1,3 +1,26 @@
+# webidl2-mozilla
+
+This forked from https://github.com/w3c/webidl2.js
+
+## add some features for https://dxr.mozilla.org/mozilla-central/source/dom/webidl/
+
+### 0.enable-mozilla-namespaces-constants
+
+    var s =`namespace APZHitResultFlags {
+      const unsigned short INVISIBLE = 0;
+    };`
+    
+    
+    console.log(s)
+    
+    var tree = webidl2.parse(s,{enableMozillaNamespacesConstants:true});
+    var d = JSON.parse(JSON.stringify(tree))
+    d[0]
+    d[0].members
+    var txt = webidl2.write(tree);
+    console.log(txt)
+
+
 
 # WebIDL 2
 
