@@ -1,7 +1,7 @@
 {
   "name": "webidl2-mozilla-compatible",
   "description": "This forked from https://github.com/w3c/webidl2.js,add some features for mozilla-webidl-file",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "contributors": [
       "https://github.com/w3c/webidl2.js",
       "https://github.com/ihgazni2"
@@ -25,7 +25,7 @@
     "build-debug": "npx webpack --mode none"
   },
   "repository": "git@github.com:ihgazni2/webidl2-mozilla-compatible.git",
-  "main": "dist/webidl2.js",
+  "main": "dist/webidl2-mozilla-compatible.js",
   "module": "index.js",
   "files": [
     "dist/*",
