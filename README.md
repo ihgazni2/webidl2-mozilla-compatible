@@ -1,8 +1,10 @@
-# webidl2-mozilla
+# webidl2-mozilla-compatible
 
 This forked from https://github.com/w3c/webidl2.js
 
-## add some features for https://dxr.mozilla.org/mozilla-central/source/dom/webidl/
+## add some features for  mozilla-webidl-file
+
+https://dxr.mozilla.org/mozilla-central/source/dom/webidl/
 
 ### 0.enable-mozilla-namespaces-constants
 
