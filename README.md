@@ -35,6 +35,13 @@ npm install webidl2-mozilla-compatible
     var txt = webidl2.write(tree);
     console.log(txt)
 
+### 1.enable-mozilla-bodyless-interface
+
+    var webidl3 = require("../dist/webidl3.js");
+    var s ="interface MozObserver;"
+    var tree = webidl3.parse(s,{enableMozillaBodylessInterface:true})
+    var d = JSON.parse(JSON.stringify(tree))
+    d
 
 
 ------------------------------------------------------------------------------------------------
