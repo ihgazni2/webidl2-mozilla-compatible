@@ -1,3 +1,5 @@
+//https://webpack.js.org/configuration/mode/#mode-production
+
 const path = require("path");
 
 module.exports = {

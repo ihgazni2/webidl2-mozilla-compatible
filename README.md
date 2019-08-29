@@ -43,6 +43,20 @@ npm install webidl2-mozilla-compatible
     var d = JSON.parse(JSON.stringify(tree))
     d
 
+### 2.enable-mozilla-attribute-sequence
+
+    var s = `interface AccessibleNode {
+        readonly attribute sequence<DOMString> states;
+    };`
+
+
+    var tree = webidl3.parse(s,{
+        enableMozillaNamespacesConstants:true,
+        enableMozillaBodylessInterface:true,
+        enableMozillaAttributeSequence:true
+    })
+    var d = JSON.parse(JSON.stringify(tree))
+    d
 
 ------------------------------------------------------------------------------------------------
 
