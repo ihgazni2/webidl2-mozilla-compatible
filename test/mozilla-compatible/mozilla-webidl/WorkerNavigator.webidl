@@ -16,15 +16,15 @@ interface WorkerNavigator {
 
 
 
-WorkerNavigator implements NavigatorID;
+/*WorkerNavigator implements NavigatorID;*/
 
-WorkerNavigator implements NavigatorLanguage;
+/*WorkerNavigator implements NavigatorLanguage;*/
 
-WorkerNavigator implements NavigatorOnLine;
+/*WorkerNavigator implements NavigatorOnLine;*/
 
-WorkerNavigator implements NavigatorConcurrentHardware;
+/*WorkerNavigator implements NavigatorConcurrentHardware;*/
 
-WorkerNavigator implements NavigatorStorage;
+/*WorkerNavigator implements NavigatorStorage;*/
 
 
 

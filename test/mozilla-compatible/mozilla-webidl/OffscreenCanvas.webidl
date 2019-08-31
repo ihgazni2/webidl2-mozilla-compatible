@@ -56,4 +56,4 @@ interface OffscreenCanvas : EventTarget {
 
 
 
-// OffscreenCanvas implements Transferable;
+/*// OffscreenCanvas implements Transferable;*/

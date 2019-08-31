@@ -62,21 +62,21 @@ interface Navigator {
 
 };
 
-Navigator implements NavigatorID;
+/*Navigator implements NavigatorID;*/
 
-Navigator implements NavigatorLanguage;
+/*Navigator implements NavigatorLanguage;*/
 
-Navigator implements NavigatorOnLine;
+/*Navigator implements NavigatorOnLine;*/
 
-Navigator implements NavigatorContentUtils;
+/*Navigator implements NavigatorContentUtils;*/
 
-Navigator implements NavigatorStorageUtils;
+/*Navigator implements NavigatorStorageUtils;*/
 
-Navigator implements NavigatorConcurrentHardware;
+/*Navigator implements NavigatorConcurrentHardware;*/
 
-Navigator implements NavigatorStorage;
+/*Navigator implements NavigatorStorage;*/
 
-Navigator implements NavigatorAutomationInformation;
+/*Navigator implements NavigatorAutomationInformation;*/
 
 
 
@@ -266,7 +266,7 @@ interface NavigatorGeolocation {
 
 };
 
-Navigator implements NavigatorGeolocation;
+/*Navigator implements NavigatorGeolocation;*/
 
 
 

@@ -36,4 +36,4 @@ interface ProcessingInstruction : CharacterData {
 
 // https://drafts.csswg.org/cssom/#requirements-on-user-agents-implementing-the-xml-stylesheet-processing-instruction
 
-ProcessingInstruction implements LinkStyle;
+/*ProcessingInstruction implements LinkStyle;*/

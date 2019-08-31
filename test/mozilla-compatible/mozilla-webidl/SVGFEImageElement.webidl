@@ -32,6 +32,6 @@ interface SVGFEImageElement : SVGElement {
 
 
 
-SVGFEImageElement implements SVGFilterPrimitiveStandardAttributes;
+/*SVGFEImageElement implements SVGFilterPrimitiveStandardAttributes;*/
 
-SVGFEImageElement implements SVGURIReference;
+/*SVGFEImageElement implements SVGURIReference;*/

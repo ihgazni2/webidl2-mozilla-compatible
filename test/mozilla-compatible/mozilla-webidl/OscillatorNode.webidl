@@ -80,4 +80,4 @@ interface OscillatorNode : AudioScheduledSourceNode {
 
 // Mozilla extensions
 
-OscillatorNode implements AudioNodePassThrough;
+/*OscillatorNode implements AudioNodePassThrough;*/

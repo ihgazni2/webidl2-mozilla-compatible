@@ -60,4 +60,4 @@ interface DOMRequest : EventTarget {
 
 
 
-DOMRequest implements DOMRequestShared;
+/*DOMRequest implements DOMRequestShared;*/

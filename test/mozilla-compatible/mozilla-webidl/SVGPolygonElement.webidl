@@ -28,6 +28,6 @@ interface SVGPolygonElement : SVGGeometryElement {
 
 
 
-SVGPolygonElement implements SVGAnimatedPoints;
+/*SVGPolygonElement implements SVGAnimatedPoints;*/
 
 

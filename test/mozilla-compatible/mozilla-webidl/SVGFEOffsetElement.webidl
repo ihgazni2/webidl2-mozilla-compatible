@@ -40,4 +40,4 @@ interface SVGFEOffsetElement : SVGElement {
 
 
 
-SVGFEOffsetElement implements SVGFilterPrimitiveStandardAttributes;
+/*SVGFEOffsetElement implements SVGFilterPrimitiveStandardAttributes;*/

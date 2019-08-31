@@ -72,7 +72,7 @@ interface HTMLAnchorElement : HTMLElement {
 
 
 
-HTMLAnchorElement implements HTMLHyperlinkElementUtils;
+/*HTMLAnchorElement implements HTMLHyperlinkElementUtils;*/
 
 
 

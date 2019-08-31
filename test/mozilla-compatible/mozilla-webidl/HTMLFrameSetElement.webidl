@@ -40,4 +40,4 @@ interface HTMLFrameSetElement : HTMLElement {
 
 
 
-HTMLFrameSetElement implements WindowEventHandlers;
+/*HTMLFrameSetElement implements WindowEventHandlers;*/

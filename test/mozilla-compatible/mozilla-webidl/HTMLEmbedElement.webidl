@@ -80,8 +80,8 @@ partial interface HTMLEmbedElement {
 
 
 
-HTMLEmbedElement implements MozImageLoadingContent;
+/*HTMLEmbedElement implements MozImageLoadingContent;*/
 
-HTMLEmbedElement implements MozFrameLoaderOwner;
+/*HTMLEmbedElement implements MozFrameLoaderOwner;*/
 
-HTMLEmbedElement implements MozObjectLoadingContent;
+/*HTMLEmbedElement implements MozObjectLoadingContent;*/

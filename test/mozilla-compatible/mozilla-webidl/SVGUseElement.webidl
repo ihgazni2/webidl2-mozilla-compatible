@@ -48,4 +48,4 @@ interface SVGUseElement : SVGGraphicsElement {
 
 
 
-SVGUseElement implements SVGURIReference;
+/*SVGUseElement implements SVGURIReference;*/

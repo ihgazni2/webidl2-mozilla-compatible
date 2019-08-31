@@ -56,4 +56,4 @@ interface SVGFEColorMatrixElement : SVGElement {
 
 
 
-SVGFEColorMatrixElement implements SVGFilterPrimitiveStandardAttributes;
+/*SVGFEColorMatrixElement implements SVGFilterPrimitiveStandardAttributes;*/

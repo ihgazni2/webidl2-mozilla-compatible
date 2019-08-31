@@ -66,6 +66,6 @@ interface SVGAElement : SVGGraphicsElement {
 
 
 
-SVGAElement implements SVGURIReference;
+/*SVGAElement implements SVGURIReference;*/
 
 

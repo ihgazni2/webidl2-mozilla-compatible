@@ -32,4 +32,4 @@ interface SVGFEComponentTransferElement : SVGElement {
 
 
 
-SVGFEComponentTransferElement implements SVGFilterPrimitiveStandardAttributes;
+/*SVGFEComponentTransferElement implements SVGFilterPrimitiveStandardAttributes;*/

@@ -243,15 +243,16 @@ interface Node : EventTarget {
   readonly attribute Element? parentFlexElement;
 
 
-
-#ifdef ACCESSIBILITY
-
+/* not supported
+*  #ifdef ACCESSIBILITY
+*/
   [Func="mozilla::dom::AccessibleNode::IsAOMEnabled", SameObject]
 
   readonly attribute AccessibleNode? accessibleNode;
 
-#endif
-
+/* not supported
+* #endif
+*/
 };
 
 

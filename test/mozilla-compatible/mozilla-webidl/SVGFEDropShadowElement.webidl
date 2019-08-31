@@ -52,4 +52,4 @@ interface SVGFEDropShadowElement : SVGElement {
 
 
 
-SVGFEDropShadowElement implements SVGFilterPrimitiveStandardAttributes;
+/*SVGFEDropShadowElement implements SVGFilterPrimitiveStandardAttributes;*/

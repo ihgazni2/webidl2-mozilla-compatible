@@ -36,6 +36,6 @@ interface HTMLStyleElement : HTMLElement {
 
 };
 
-HTMLStyleElement implements LinkStyle;
+/*HTMLStyleElement implements LinkStyle;*/
 
 

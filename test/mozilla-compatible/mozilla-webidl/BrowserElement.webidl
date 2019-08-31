@@ -18,7 +18,7 @@ interface BrowserElement {
 
 
 
-BrowserElement implements BrowserElementPrivileged;
+/*BrowserElement implements BrowserElementPrivileged;*/
 
 
 

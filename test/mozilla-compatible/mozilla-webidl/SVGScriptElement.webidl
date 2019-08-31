@@ -40,6 +40,6 @@ interface SVGScriptElement : SVGElement {
 
 
 
-SVGScriptElement implements SVGURIReference;
+/*SVGScriptElement implements SVGURIReference;*/
 
 

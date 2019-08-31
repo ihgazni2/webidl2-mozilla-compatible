@@ -196,10 +196,10 @@ interface XULElement : Element {
 
 
 
-XULElement implements GlobalEventHandlers;
+/*XULElement implements GlobalEventHandlers;*/
 
-XULElement implements HTMLOrSVGOrXULElementMixin;
+/*XULElement implements HTMLOrSVGOrXULElementMixin;*/
 
-XULElement implements TouchEventHandlers;
+/*XULElement implements TouchEventHandlers;*/
 
-XULElement implements OnErrorEventHandlerForNodes;
+/*XULElement implements OnErrorEventHandlerForNodes;*/

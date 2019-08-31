@@ -90,4 +90,4 @@ interface SVGFEConvolveMatrixElement : SVGElement {
 
 
 
-SVGFEConvolveMatrixElement implements SVGFilterPrimitiveStandardAttributes;
+/*SVGFEConvolveMatrixElement implements SVGFilterPrimitiveStandardAttributes;*/

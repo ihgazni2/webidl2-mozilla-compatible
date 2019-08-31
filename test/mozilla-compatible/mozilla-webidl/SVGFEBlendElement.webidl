@@ -78,4 +78,4 @@ interface SVGFEBlendElement : SVGElement {
 
 
 
-SVGFEBlendElement implements SVGFilterPrimitiveStandardAttributes;
+/*SVGFEBlendElement implements SVGFilterPrimitiveStandardAttributes;*/

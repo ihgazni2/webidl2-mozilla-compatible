@@ -48,4 +48,4 @@ interface SVGFEDiffuseLightingElement : SVGElement {
 
 
 
-SVGFEDiffuseLightingElement implements SVGFilterPrimitiveStandardAttributes;
+/*SVGFEDiffuseLightingElement implements SVGFilterPrimitiveStandardAttributes;*/

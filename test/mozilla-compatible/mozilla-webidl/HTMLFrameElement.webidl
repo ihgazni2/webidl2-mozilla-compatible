@@ -72,4 +72,4 @@ interface HTMLFrameElement : HTMLElement {
 
 
 
-HTMLFrameElement implements MozFrameLoaderOwner;
+/*HTMLFrameElement implements MozFrameLoaderOwner;*/

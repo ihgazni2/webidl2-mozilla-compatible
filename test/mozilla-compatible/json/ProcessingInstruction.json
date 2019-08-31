@@ -1,0 +1,1 @@
+[{"type":"interface","name":"ProcessingInstruction","inheritance":"CharacterData","members":[{"type":"attribute","name":"target","idlType":{"type":"attribute-type","extAttrs":[],"generic":"","nullable":false,"union":false,"idlType":"DOMString"},"extAttrs":[],"special":"","readonly":true}],"extAttrs":[],"partial":false}]

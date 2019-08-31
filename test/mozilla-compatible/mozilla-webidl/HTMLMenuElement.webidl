@@ -104,7 +104,7 @@ partial interface HTMLMenuElement {
 
    * The caller can use a native builder by calling createBuilder() or provide
 
-   * a custom builder that implements the nsIMenuBuilder interface.
+  * a custom builder that implements the nsIMenuBuilder interface.
 
    * A custom builder can be used for example to build native context menus
 

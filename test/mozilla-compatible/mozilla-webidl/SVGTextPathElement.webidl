@@ -62,6 +62,6 @@ interface SVGTextPathElement : SVGTextContentElement {
 
 
 
-SVGTextPathElement implements SVGURIReference;
+/*SVGTextPathElement implements SVGURIReference;*/
 
 

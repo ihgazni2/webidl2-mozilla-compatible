@@ -20,4 +20,4 @@ interface SharedWorker : EventTarget {
 
 
 
-SharedWorker implements AbstractWorker;
+/*SharedWorker implements AbstractWorker;*/

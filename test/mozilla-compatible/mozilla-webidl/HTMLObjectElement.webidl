@@ -450,8 +450,8 @@ dictionary MozPluginParameter {
 
 
 
-HTMLObjectElement implements MozImageLoadingContent;
+/*HTMLObjectElement implements MozImageLoadingContent;*/
 
-HTMLObjectElement implements MozFrameLoaderOwner;
+/*HTMLObjectElement implements MozFrameLoaderOwner;*/
 
-HTMLObjectElement implements MozObjectLoadingContent;
+/*HTMLObjectElement implements MozObjectLoadingContent;*/

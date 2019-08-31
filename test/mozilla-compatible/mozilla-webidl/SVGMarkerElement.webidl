@@ -86,6 +86,6 @@ interface SVGMarkerElement : SVGElement {
 
 
 
-SVGMarkerElement implements SVGFitToViewBox;
+/*SVGMarkerElement implements SVGFitToViewBox;*/
 
 

@@ -76,4 +76,4 @@ interface SVGFECompositeElement : SVGElement {
 
 
 
-SVGFECompositeElement implements SVGFilterPrimitiveStandardAttributes;
+/*SVGFECompositeElement implements SVGFilterPrimitiveStandardAttributes;*/

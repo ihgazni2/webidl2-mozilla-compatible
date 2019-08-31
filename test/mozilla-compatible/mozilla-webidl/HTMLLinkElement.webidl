@@ -70,7 +70,7 @@ interface HTMLLinkElement : HTMLElement {
 
 };
 
-HTMLLinkElement implements LinkStyle;
+/*HTMLLinkElement implements LinkStyle;*/
 
 
 

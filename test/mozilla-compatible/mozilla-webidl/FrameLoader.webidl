@@ -412,4 +412,4 @@ interface WebBrowserPersistable
 
 
 
-FrameLoader implements WebBrowserPersistable;
+/*FrameLoader implements WebBrowserPersistable;*/

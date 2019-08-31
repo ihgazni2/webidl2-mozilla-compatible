@@ -68,4 +68,4 @@ interface SVGGraphicsElement : SVGElement {
 
 
 
-SVGGraphicsElement implements SVGTests;
+/*SVGGraphicsElement implements SVGTests;*/

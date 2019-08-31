@@ -50,4 +50,4 @@ partial interface DocumentFragment {
 
 
 
-DocumentFragment implements ParentNode;
+/*DocumentFragment implements ParentNode;*/

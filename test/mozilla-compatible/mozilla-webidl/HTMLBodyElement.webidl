@@ -62,4 +62,4 @@ partial interface HTMLBodyElement {
 
 
 
-HTMLBodyElement implements WindowEventHandlers;
+/*HTMLBodyElement implements WindowEventHandlers;*/

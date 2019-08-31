@@ -54,7 +54,7 @@ interface Worker : EventTarget {
 
 
 
-Worker implements AbstractWorker;
+/*Worker implements AbstractWorker;*/
 
 
 

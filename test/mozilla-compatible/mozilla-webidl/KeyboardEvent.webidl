@@ -140,4 +140,4 @@ dictionary KeyboardEventInit : EventModifierInit
 
 // Mozilla extensions
 
-KeyboardEvent implements KeyEvent;
+/*KeyboardEvent implements KeyEvent;*/

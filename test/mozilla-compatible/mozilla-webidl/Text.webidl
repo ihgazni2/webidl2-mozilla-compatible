@@ -54,4 +54,4 @@ partial interface Text {
 
 
 
-Text implements GeometryUtils;
+/*Text implements GeometryUtils;*/

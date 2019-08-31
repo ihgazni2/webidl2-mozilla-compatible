@@ -56,4 +56,4 @@ interface SVGFEMorphologyElement : SVGElement {
 
 
 
-SVGFEMorphologyElement implements SVGFilterPrimitiveStandardAttributes;
+/*SVGFEMorphologyElement implements SVGFilterPrimitiveStandardAttributes;*/

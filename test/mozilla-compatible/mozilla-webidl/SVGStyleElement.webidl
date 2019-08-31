@@ -42,6 +42,6 @@ interface SVGStyleElement : SVGElement {
 
 };
 
-SVGStyleElement implements LinkStyle;
+/*SVGStyleElement implements LinkStyle;*/
 
 

@@ -36,4 +36,4 @@ interface TreeContentView
 
 };
 
-TreeContentView implements TreeView;
+/*TreeContentView implements TreeView;*/

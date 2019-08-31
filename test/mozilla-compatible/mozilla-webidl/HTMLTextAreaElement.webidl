@@ -172,7 +172,7 @@ partial interface HTMLTextAreaElement {
 
 
 
-HTMLTextAreaElement implements MozEditableElement;
+/*HTMLTextAreaElement implements MozEditableElement;*/
 
 
 

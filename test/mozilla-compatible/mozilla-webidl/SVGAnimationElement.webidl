@@ -64,6 +64,6 @@ interface SVGAnimationElement : SVGElement {
 
 
 
-SVGAnimationElement implements SVGTests;
+/*SVGAnimationElement implements SVGTests;*/
 
 

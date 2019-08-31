@@ -92,4 +92,4 @@ interface AnalyserNode : AudioNode {
 
 // Mozilla extension
 
-AnalyserNode implements AudioNodePassThrough;
+/*AnalyserNode implements AudioNodePassThrough;*/

@@ -56,6 +56,6 @@ interface SVGFilterElement : SVGElement {
 
 
 
-SVGFilterElement implements SVGURIReference;
+/*SVGFilterElement implements SVGURIReference;*/
 
 

@@ -124,7 +124,7 @@ interface Exception {
 
 
 
-Exception implements ExceptionMembers;
+/*Exception implements ExceptionMembers;*/
 
 
 
@@ -210,4 +210,4 @@ interface DOMException {
 
 // the prototype chain sane.
 
-DOMException implements ExceptionMembers;
+/*DOMException implements ExceptionMembers;*/

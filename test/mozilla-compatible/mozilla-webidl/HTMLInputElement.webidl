@@ -430,7 +430,7 @@ interface MozEditableElement {
 
 
 
-HTMLInputElement implements MozEditableElement;
+/*HTMLInputElement implements MozEditableElement;*/
 
 
 
@@ -468,7 +468,7 @@ partial interface HTMLInputElement {
 
 
 
-HTMLInputElement implements MozImageLoadingContent;
+/*HTMLInputElement implements MozImageLoadingContent;*/
 
 
 

@@ -28,4 +28,4 @@ interface SVGZoomAndPan {
 
 
 
-SVGZoomAndPan implements SVGZoomAndPanValues;
+/*SVGZoomAndPan implements SVGZoomAndPanValues;*/

@@ -44,7 +44,7 @@ interface MessagePort : EventTarget {
 
 };
 
-// MessagePort implements Transferable;
+/*// MessagePort implements Transferable;*/
 
 
 

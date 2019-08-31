@@ -518,15 +518,15 @@ partial interface Element {
 
 
 
-Element implements ChildNode;
+/*Element implements ChildNode;*/
 
-Element implements NonDocumentTypeChildNode;
+/*Element implements NonDocumentTypeChildNode;*/
 
-Element implements ParentNode;
+/*Element implements ParentNode;*/
 
-Element implements Animatable;
+/*Element implements Animatable;*/
 
-Element implements GeometryUtils;
+/*Element implements GeometryUtils;*/
 
 
 

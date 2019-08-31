@@ -32,4 +32,4 @@ interface SVGFETileElement : SVGElement {
 
 
 
-SVGFETileElement implements SVGFilterPrimitiveStandardAttributes;
+/*SVGFETileElement implements SVGFilterPrimitiveStandardAttributes;*/

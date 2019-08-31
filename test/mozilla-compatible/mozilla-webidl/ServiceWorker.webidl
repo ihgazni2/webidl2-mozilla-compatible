@@ -52,7 +52,7 @@ interface ServiceWorker : EventTarget {
 
 
 
-ServiceWorker implements AbstractWorker;
+/*ServiceWorker implements AbstractWorker;*/
 
 
 

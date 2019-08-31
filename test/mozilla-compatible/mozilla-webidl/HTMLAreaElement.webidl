@@ -72,7 +72,7 @@ interface HTMLAreaElement : HTMLElement {
 
 
 
-HTMLAreaElement implements HTMLHyperlinkElementUtils;
+/*HTMLAreaElement implements HTMLHyperlinkElementUtils;*/
 
 
 

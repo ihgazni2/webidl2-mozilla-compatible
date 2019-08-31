@@ -44,4 +44,4 @@ interface SVGFEGaussianBlurElement : SVGElement {
 
 
 
-SVGFEGaussianBlurElement implements SVGFilterPrimitiveStandardAttributes;
+/*SVGFEGaussianBlurElement implements SVGFilterPrimitiveStandardAttributes;*/

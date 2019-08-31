@@ -56,12 +56,12 @@ interface SVGElement : Element {
 
 
 
-SVGElement implements GlobalEventHandlers;
+/*SVGElement implements GlobalEventHandlers;*/
 
-SVGElement implements HTMLOrSVGOrXULElementMixin;
+/*SVGElement implements HTMLOrSVGOrXULElementMixin;*/
 
-SVGElement implements DocumentAndElementEventHandlers;
+/*SVGElement implements DocumentAndElementEventHandlers;*/
 
-SVGElement implements TouchEventHandlers;
+/*SVGElement implements TouchEventHandlers;*/
 
-SVGElement implements OnErrorEventHandlerForNodes;
+/*SVGElement implements OnErrorEventHandlerForNodes;*/

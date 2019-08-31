@@ -68,15 +68,15 @@ interface WorkerGlobalScope : EventTarget {
 
 
 
-WorkerGlobalScope implements GlobalCrypto;
+/*WorkerGlobalScope implements GlobalCrypto;*/
 
-WorkerGlobalScope implements WindowOrWorkerGlobalScope;
+/*WorkerGlobalScope implements WindowOrWorkerGlobalScope;*/
 
 
 
 // Not implemented yet: bug 1072107.
 
-// WorkerGlobalScope implements FontFaceSource;
+/*// WorkerGlobalScope implements FontFaceSource;*/
 
 
 

@@ -98,4 +98,4 @@ interface ShadowRoot : DocumentFragment
 
 
 
-ShadowRoot implements DocumentOrShadowRoot;
+/*ShadowRoot implements DocumentOrShadowRoot;*/

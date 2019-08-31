@@ -64,4 +64,4 @@ interface SVGFEDisplacementMapElement : SVGElement {
 
 
 
-SVGFEDisplacementMapElement implements SVGFilterPrimitiveStandardAttributes;
+/*SVGFEDisplacementMapElement implements SVGFilterPrimitiveStandardAttributes;*/

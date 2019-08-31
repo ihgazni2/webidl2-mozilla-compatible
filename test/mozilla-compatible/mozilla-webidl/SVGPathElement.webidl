@@ -30,6 +30,6 @@ interface SVGPathElement : SVGGeometryElement {
 
 
 
-SVGPathElement implements SVGAnimatedPathData;
+/*SVGPathElement implements SVGAnimatedPathData;*/
 
 

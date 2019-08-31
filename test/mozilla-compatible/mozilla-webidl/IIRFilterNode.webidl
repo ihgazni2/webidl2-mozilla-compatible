@@ -44,4 +44,4 @@ interface IIRFilterNode : AudioNode {
 
 // Mozilla extension
 
-IIRFilterNode implements AudioNodePassThrough;
+/*IIRFilterNode implements AudioNodePassThrough;*/

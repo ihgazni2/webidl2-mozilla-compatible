@@ -182,15 +182,15 @@ interface TouchEventHandlers {
 
 
 
-HTMLElement implements GlobalEventHandlers;
+/*HTMLElement implements GlobalEventHandlers;*/
 
-HTMLElement implements HTMLOrSVGOrXULElementMixin;
+/*HTMLElement implements HTMLOrSVGOrXULElementMixin;*/
 
-HTMLElement implements DocumentAndElementEventHandlers;
+/*HTMLElement implements DocumentAndElementEventHandlers;*/
 
-HTMLElement implements TouchEventHandlers;
+/*HTMLElement implements TouchEventHandlers;*/
 
-HTMLElement implements OnErrorEventHandlerForNodes;
+/*HTMLElement implements OnErrorEventHandlerForNodes;*/
 
 
 

@@ -262,4 +262,4 @@ interface MozImageLoadingContent {
 
 
 
-HTMLImageElement implements MozImageLoadingContent;
+/*HTMLImageElement implements MozImageLoadingContent;*/

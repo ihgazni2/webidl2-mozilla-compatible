@@ -56,8 +56,8 @@ interface SVGImageElement : SVGGraphicsElement {
 
 
 
-SVGImageElement implements MozImageLoadingContent;
+/*SVGImageElement implements MozImageLoadingContent;*/
 
-SVGImageElement implements SVGURIReference;
+/*SVGImageElement implements SVGURIReference;*/
 
 

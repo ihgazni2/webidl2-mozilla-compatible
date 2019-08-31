@@ -74,4 +74,4 @@ interface SVGFETurbulenceElement : SVGElement {
 
 
 
-SVGFETurbulenceElement implements SVGFilterPrimitiveStandardAttributes;
+/*SVGFETurbulenceElement implements SVGFilterPrimitiveStandardAttributes;*/

@@ -34,4 +34,4 @@ interface LegacyQueryInterface {
 
 
 
-Element implements LegacyQueryInterface;
+/*Element implements LegacyQueryInterface;*/

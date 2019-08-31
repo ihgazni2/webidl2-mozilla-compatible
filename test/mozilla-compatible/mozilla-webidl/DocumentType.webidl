@@ -34,4 +34,4 @@ interface DocumentType : Node {
 
 
 
-DocumentType implements ChildNode;
+/*DocumentType implements ChildNode;*/

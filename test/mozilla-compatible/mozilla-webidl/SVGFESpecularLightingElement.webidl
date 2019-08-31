@@ -52,4 +52,4 @@ interface SVGFESpecularLightingElement : SVGElement {
 
 
 
-SVGFESpecularLightingElement implements SVGFilterPrimitiveStandardAttributes;
+/*SVGFESpecularLightingElement implements SVGFilterPrimitiveStandardAttributes;*/
